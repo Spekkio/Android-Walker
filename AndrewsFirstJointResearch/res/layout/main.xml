@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:id="@+id/widget0"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+      <org.me.andrewsfirstjointresearch.Background
+      android:id="@+id/lunar"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      />
+<!--
+<EditText
+android:id="@+id/widget28"
+android:layout_width="100px"
+android:layout_height="wrap_content"
+android:text=""
+android:textSize="18sp"
+android:layout_x="40px"
+android:layout_y="50px"
+>
+</EditText>
+<EditText
+android:id="@+id/widget29"
+android:layout_width="100px"
+android:layout_height="wrap_content"
+android:text=""
+android:textSize="18sp"
+android:layout_x="164px"
+android:layout_y="50px"
+>
+</EditText>
+<Button
+android:id="@+id/widget30"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Add"
+android:layout_x="40px"
+android:layout_y="111px"
+>
+</Button>
+<EditText
+android:id="@+id/widget31"
+android:layout_width="100px"
+android:layout_height="wrap_content"
+android:text=""
+android:textSize="18sp"
+android:layout_x="164px"
+android:layout_y="111px"
+>
+</EditText>-->
+<TextView
+android:id="@+id/widget32"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Andrews First Joint Research"
+android:layout_x="40px"
+android:layout_y="15px"
+>
+</TextView>
+
+</AbsoluteLayout>
